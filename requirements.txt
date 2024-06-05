@@ -1,0 +1,7 @@
+Packages:
+- Pandas
+- Scikit-learn
+- Imbalanced-learn
+- Seaborn
+
+Also you will need to change the file paths in all the files required for the.

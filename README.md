@@ -1,3 +1,6 @@
+### Dementia and Alzheimers Classification
+
+
 In this report, I embark on a comprehensive analysis of a biomedical tabular
 dataset, emphasizing longitudinal data related to dementia and Alzheimer's
 disease. This dataset, rich in complexity, chronicles patient histories across

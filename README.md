@@ -1,11 +1,13 @@
 ### Dementia and Alzheimers Classification
 
 
-In this report, I embark on a comprehensive analysis of a biomedical tabular
+In this project, I embark on a comprehensive analysis of a biomedical tabular
 dataset, emphasizing longitudinal data related to dementia and Alzheimer's
 disease. This dataset, rich in complexity, chronicles patient histories across
 multiple visits and incorporates diverse features, including demographic, socio-
 economic, and medical variables.
+
+
 I primarily aim to utilize machine learning techniques—specifically, Random
 Forests and Support Vector Classifiers—to classify patients' dementia status
 based on the dataset's features. A crucial element of our investigation is
